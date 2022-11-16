@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mohit Kumar. 
 
-I'm currently working on React, Node
+I'm currently working on a lot of things.
 
 ### 🏆 GitHub Profile Trophy:
 ---
