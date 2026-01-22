@@ -2,7 +2,7 @@
 
 I'm currently working on a lot of things.
 
-### 🏆 GitHub Profile Trophy:
+### 🏆 GitHub Stats:
 ---
 
 ![Mohit Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mkayfour&theme=solarized_dark)
