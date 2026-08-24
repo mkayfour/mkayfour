@@ -4,13 +4,6 @@ Full-stack developer based in India. I'm currently building **[Monaire](https://
 
 On the frontend I work with React and React Native. On the backend it's Node.js, Python — Django and FastAPI — and Go.
 
-### 🚀 Projects
-
-- **[textract-demo](https://github.com/mkayfour/textract-demo)** — React + TypeScript demo of AWS Textract document extraction, written as companion code for my [Medium article](https://mkayfour.medium.com/using-aws-textract-with-reactjs-6ca1e1bb478a).
-- **[youtube-clone](https://github.com/mkayfour/youtube-clone)** — A YouTube clone built on the MERN stack.
-- **[contact-keeper](https://github.com/mkayfour/contact-keeper)** — Full-stack MERN contact manager with JWT auth and client-side filtering.
-- **[expense-tracker-backend](https://github.com/mkayfour/expense-tracker-backend)** — Express + Sequelize + Postgres REST API with JWT auth and Swagger docs.
-
 ### 🛠️ Tech Stack
 
 **Languages** — TypeScript, JavaScript, Python, Go
