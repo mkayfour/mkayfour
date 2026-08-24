@@ -2,7 +2,7 @@
 
 Full-stack developer based in India. I'm currently building **[Monaire](https://monaire.ai)** — the app lives at **[app.monaire.ai](https://app.monaire.ai)**.
 
-Most of my work is TypeScript and JavaScript across React and Node, with a good amount of Python on the backend.
+On the frontend I work with React and React Native. On the backend it's Node.js, Python — Django and FastAPI — and Go.
 
 ### 🚀 Projects
 
@@ -13,11 +13,11 @@ Most of my work is TypeScript and JavaScript across React and Node, with a good 
 
 ### 🛠️ Tech Stack
 
-**Languages** — TypeScript, JavaScript, Python
+**Languages** — TypeScript, JavaScript, Python, Go
 
 **Frontend** — React, Next.js, Redux, React Native
 
-**Backend** — Node, Express, FastAPI, Django
+**Backend** — Node.js, Express, Django, FastAPI, Go
 
 **Data** — Postgres, MongoDB, SQL
 
