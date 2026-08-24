@@ -6,11 +6,11 @@ On the frontend I work with React and React Native. On the backend it's Node.js,
 
 ### 🛠️ Tech Stack
 
-**Languages** — TypeScript, JavaScript, Python, Go
-
 **Frontend** — React, Next.js, Redux, React Native
 
-**Backend** — Node.js, Express, Django, FastAPI, Go
+**Backend** — Node, Express, FastAPI, Django, GO
+
+**Languages** — TypeScript, JavaScript, Python, GO
 
 **Data** — Postgres, MongoDB, SQL
 
