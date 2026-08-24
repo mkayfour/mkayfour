@@ -14,12 +14,6 @@ On the frontend I work with React and React Native. On the backend it's Node.js,
 
 **Data** — Postgres, MongoDB, SQL
 
-### 📬 Get in touch
-
-- Website — [mkayfour.in](https://mkayfour.in)
-- LinkedIn — [mohit-kumar-srivastava](https://www.linkedin.com/in/mohit-kumar-srivastava/)
-- Email — [mk4227525@gmail.com](mailto:mk4227525@gmail.com)
-
 ### 🏆 GitHub Stats
 
 ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mkayfour&theme=solarized_dark)
@@ -27,3 +21,9 @@ On the frontend I work with React and React Native. On the backend it's Node.js,
 ![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mkayfour&theme=solarized_dark)
 
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkayfour&theme=solarized_dark)
+
+### 📬 Get in touch
+
+- Website — [mkayfour.in](https://mkayfour.in)
+- LinkedIn — [mohit-kumar-srivastava](https://www.linkedin.com/in/mohit-kumar-srivastava/)
+- Email — [mk4227525@gmail.com](mailto:mk4227525@gmail.com)
